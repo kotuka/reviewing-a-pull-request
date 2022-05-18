@@ -8,7 +8,9 @@ To play the game:
 1. Select **Master** from the Source drop-down.
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
-
+1.Left review and Line comments
+1.Created a file and commit
+1.Opened pull request
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
